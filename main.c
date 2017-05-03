@@ -2,6 +2,6 @@
 
 int main()
    {
-   printf("New main without the .txt extension\n");
-   printf("Added one line\n");
+   printf("Welcome !\n");
+   printf("Branch 4 only needs one line after the welcome msg\n");
    }
